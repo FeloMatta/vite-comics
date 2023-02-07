@@ -25,6 +25,6 @@ export default {
 <style lang="scss">
 @use "./styles/main";
 body{
-  background-color: #0E0E0E;
+  background-color: #1C1C1C;
 }
 </style>
